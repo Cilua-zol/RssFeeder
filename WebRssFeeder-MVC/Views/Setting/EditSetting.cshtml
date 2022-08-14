@@ -1,0 +1,26 @@
+﻿@model WebRssFeeder_MVC.ViewModels.SettingViewModel
+<form asp-action="EditSetting" asp-controller="Setting" asp-anti-forgery="true">
+<div class="validation" sp-validation-summary="ModelOnly"></div>
+<div>
+    <div class="text-center" class="form_setting">
+           <form method="post">
+               
+               <h1>Setting </h1>
+               
+               <div class="setting_group">
+                    <label class="setting_label">Url</label>
+                   <input name="RssUri" type="text"/>
+                   <span asp-validation-for="RssUri" class="text-danger"></span>
+               </div>
+                
+               <div class="setting_group">
+                   <label class="setting_label">Timer</label>
+                   <input name="UpdateTimer" type="number"/>
+                   <span asp-validation-for="UpdateTimer" class="text-danger"></span>
+               </div>
+               <button class="setting_button">Acept</button>
+           </form>
+       </div>
+</div>
+</form>
+ 

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yYut8huO+GDJSrLmdvgVrpB1QcLd/FqY3C6AaPbHNsV664ZrS2gaPe67e/J+HXLmRur3nlUhDt5VAHIR0RguEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tema\\Desktop\\WebRssFeeder-MVC\\WebRssFeeder-MVC\\WebRssFeeder-MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tema\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tema\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tema\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tema\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tema\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tema\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tema\\.nuget\\packages\\system.servicemodel.syndication\\7.0.0-preview.7.22375.6\\system.servicemodel.syndication.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "C:\\Users\\Tema\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+﻿
+@model WebRssFeeder_MVC.ViewModels.ItemViewModel
+
+<div class="text-center">
+    <meta http-equiv="refresh" content="@Model.RssUpdateTimer">
+    <div class="data-container">
+        @foreach (var item in Model.ItemModels)
+        {
+            <div class="form">
+                <details class="lng__text">
+                    <summary>
+                        <a href="@item.ItemUri" target="_blank" class="lng__link">@item.ItemTitle | @item.ItemPubDate</a>
+                    </summary>
+                    @item.ItemDescription
+                </details>
+            </div>
+        }
+    </div>
+</div>  

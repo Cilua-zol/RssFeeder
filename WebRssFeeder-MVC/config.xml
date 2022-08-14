@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationВ>
+  <feederSettings>
+    <update>11</update>
+    <rssLink>https://lenta.ru/rss/news</rssLink>
+  </feederSettings>
+</configurationВ>
